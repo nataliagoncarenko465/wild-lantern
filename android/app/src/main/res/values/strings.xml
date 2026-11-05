@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wild Lantern</string>
+
+    <string name="splash_title">WILD LANTERN</string>
+    <string name="splash_subtitle">FORTUNE TIGER PLANNER</string>
+    <string name="loading">LOADING</string>
+
+    <string name="start_planning">START PLANNING</string>
+    <string name="todays_goals">TODAYS GOALS</string>
+    <string name="menu_greeting">WELCOME BACK</string>
+    <string name="menu_streak">STREAK %1$d DAYS</string>
+    <string name="menu_no_goals">NO GOALS YET</string>
+    <string name="new_day">NEW DAY</string>
+    <string name="settings_caption">GOALS SOUND AND RESET</string>
+
+    <string name="daily_challenge">DAILY CHALLENGE</string>
+    <string name="progress">PROGRESS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="settings">SETTINGS</string>
+    <string name="menu">MENU</string>
+
+    <string name="todays_lanterns">TODAYS LANTERNS</string>
+    <string name="add_goal">ADD GOAL</string>
+    <string name="add_goal_hint">GOAL TITLE</string>
+    <string name="shuffle">SHUFFLE</string>
+    <string name="finish_day">FINISH DAY</string>
+    <string name="all_goals_done">ALL GOALS DONE</string>
+    <string name="finish_to_claim">FINISH THE DAY TO CLAIM REWARDS</string>
+    <string name="could_not_load">COULD NOT LOAD TODAY</string>
+    <string name="retry">RETRY</string>
+
+    <string name="day_complete">DAY COMPLETE</string>
+    <string name="plan_again">PLAN AGAIN</string>
+    <string name="keep_streak">KEEP THE STREAK ALIVE</string>
+    <string name="new_scene_unlocked">NEW SCENE UNLOCKED</string>
+    <string name="badges_collected">BADGES %1$d / %2$d</string>
+
+    <string name="challenge_rail">CHALLENGE RAIL</string>
+    <string name="challenge_reward">REWARD PREVIEW</string>
+    <string name="challenge_step">STEP %1$d OF %2$d</string>
+    <string name="start_challenge">START CHALLENGE</string>
+    <string name="claimed_today">CLAIMED TODAY</string>
+
+    <string name="total_goals">TOTAL GOALS</string>
+    <string name="best_streak">BEST STREAK</string>
+    <string name="badges">BADGES</string>
+    <string name="this_week">THIS WEEK</string>
+    <string name="recent_days">RECENT DAYS</string>
+    <string name="no_history">NO HISTORY YET</string>
+    <string name="finish_first_day">FINISH YOUR FIRST DAY</string>
+
+    <string name="locked">LOCKED</string>
+
+    <string name="setting_reminder">DAILY REMINDER CARD</string>
+    <string name="setting_sound">SOUND CUES</string>
+    <string name="setting_motion">REDUCED MOTION</string>
+    <string name="goals_per_day">GOALS PER DAY</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_hint">This clears tokens, badges, scenes and the whole planning history on this device.</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+    <string name="close">CLOSE</string>
+    <string name="resume">RESUME</string>
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_hint">The lanterns are waiting. Resume the session or go back to the hub.</string>
+    <string name="app_footer">WILD LANTERN VERSION 1.0</string>
+
+    <string name="stat_done">DONE</string>
+    <string name="stat_goals">GOALS</string>
+    <string name="stat_tokens">TOKENS</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="value_fraction">%1$d / %2$d</string>
+    <string name="value_gain">+%1$d</string>
+
+    <string name="state_completed">completed</string>
+    <string name="state_pending">not completed</string>
+    <string name="state_locked">locked</string>
+    <string name="state_unlocked">unlocked</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+
+    <string name="cd_logo">Wild Lantern emblem</string>
+    <string name="cd_mascot">Fortune Tiger mascot</string>
+    <string name="cd_badge">Tiger badge medallion</string>
+    <string name="cd_token">Fortune token</string>
+    <string name="cd_pause">Pause the session</string>
+    <string name="cd_home">Return to the hub</string>
+    <string name="cd_back">Go back</string>
+</resources>
